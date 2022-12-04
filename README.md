@@ -11,20 +11,20 @@
 
 ## Part II: Machine Learning for Prediction
 ### Table of Contents
-- data
-- code
-- spotlight
+- [data](https://github.com/yutongquan/STATS201_Problem_Set_2_Explanation/tree/main/data)
+- [code](https://github.com/yutongquan/STATS201_Problem_Set_2_Explanation/tree/main/code)
+- [spotlight](https://github.com/yutongquan/STATS201_Problem_Set_2_Explanation/tree/main/spotlight)
 
-## Data
-- Data Source:
-- Queried Data
-- Processed Data
+### Data
+- Data Source: https://github.com/SciEcon/SoK_Blockchain_Decentralization/tree/main/Data_TokenIndex
+- [Queried Data](https://github.com/yutongquan/STATS201_Problem_Set_2_Explanation/tree/main/data/Queried_Data)
+- [Processed Data](https://github.com/yutongquan/STATS201_Problem_Set_2_Explanation/tree/main/data/Processed_Data)
 
-## Code
-- Process Data
-- Analyze Data
+### Code
+- [Process Data](https://github.com/yutongquan/STATS201_Problem_Set_2_Explanation/blob/main/code/Process_Data.ipynb)
+- [Analyze Data](https://github.com/yutongquan/STATS201_Problem_Set_2_Explanation/blob/main/code/Analyze_Data.ipynb)
 
-## Spotlight
+### Spotlight
 ![Confusion Matrix](https://github.com/yutongquan/STATS201_Problem_Set_2/blob/main/Spotlight/Confusion%20Matrix_Ridge%20Classfier.png)
 
 *Figure No.1. Source: [Alpha Vantage: Digital & Crypto Currencies/DIGITAL_CURRENCY_DAILY](https://www.alphavantage.co/documentation/#digital-currency), created by [Scikit Learn: Ridge regression and classification]([https://plotly.com/python/](https://scikit-learn.org/stable/modules/linear_model.html#ridge-regression-and-classification))*
