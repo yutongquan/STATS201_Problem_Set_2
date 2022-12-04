@@ -10,6 +10,7 @@
 [Github Repository: STATS201_Problem_Set_2_Explanation](https://github.com/yutongquan/STATS201_Problem_Set_2_Explanation)
 
 ## Part II: Machine Learning for Prediction
+
 ### Table of Contents
 - [data](https://github.com/yutongquan/STATS201_Problem_Set_2/tree/main/Data)
 - [code](https://github.com/yutongquan/STATS201_Problem_Set_2/tree/main/Code)
@@ -27,7 +28,10 @@
 ### Spotlight
 ![Confusion Matrix](https://github.com/yutongquan/STATS201_Problem_Set_2/blob/main/Spotlight/Confusion%20Matrix_Ridge%20Classfier.png)
 
-*Figure No.1. Source: [Alpha Vantage: Digital & Crypto Currencies/DIGITAL_CURRENCY_DAILY](https://www.alphavantage.co/documentation/#digital-currency), created by [Scikit Learn: Ridge regression and classification](https://scikit-learn.org/stable/modules/linear_model.html#ridge-regression-and-classification)*
+*Figure No.1. The Confusion Matrix for Ridge Classification*
+*Source: [Alpha Vantage: Digital & Crypto Currencies/DIGITAL_CURRENCY_DAILY](https://www.alphavantage.co/documentation/#digital-currency), created by [Scikit Learn: Ridge regression and classification](https://scikit-learn.org/stable/modules/linear_model.html#ridge-regression-and-classification)*
+
+Figure NO.1 is the confusion matrix of [Ridge Classification](https://scikit-learn.org/stable/modules/linear_model.html#ridge-regression-and-classification) algorithm for Bitcoin ROI prediction. The confusion matrix provides an evaluation of the performance of the classification algorithm we use. In this matrix, the X-axis is the predicted label and the Y-axis is the true label,where 0 indicates a negative ROI and 1 indicates a positive ROI. As it approaches yellow, the number is larger, and as it approaches purple, the number is smaller. The figure shows that our model correctly classifies all 141 Positive ROI cases (True Positive), but misclassifies all 192 negative ROI cases (False Positive). The model accuracy is (TP + TN)/(TP + TN + FP + FN) = 141/333 = 0.42, the recall is TP/(TP + FN) = 141/141 = 1.00, and the precision is TP/(TP + FP) = 141/333 = 0.42 (Formula reference: [Krukrubo 2019](https://pub.towardsai.net/the-confusion-matrix-for-classification-eb3bcf3064c7)).
 
 ## References
 
@@ -37,7 +41,8 @@
 [stats201-tutorial-prediction/code](https://github.com/Rising-Stars-by-Sunshine/stats201-tutorial-prediction/tree/main/code)
 ### Articles
 [Time Series Prediction Using LSTM Deep Neural Networks](https://www.altumintelligence.com/articles/a/Time-Series-Prediction-Using-LSTM-Deep-Neural-Networks)
+[The Confusion Matrix for Classification](https://pub.towardsai.net/the-confusion-matrix-for-classification-eb3bcf3064c7)
 ### Literature
 Aungiers, Jakob. 2018. “Time Series Prediction Using LSTM Deep Neural Networks.” Www.altumintelligence.com. September 1, 2018. https://www.altumintelligence.com/articles/a/Time-Series-Prediction-Using-LSTM-Deep-Neural-Networks.
-
+Krukrubo, Lawrence Alaso. 2019. “The Confusion Matrix for Classification.” Medium. Aug 19, 2019. https://pub.towardsai.net/the-confusion-matrix-for-classification-eb3bcf3064c7.
 
