@@ -7,35 +7,35 @@
 [notes: please include all professors, students, and staff who have contributed to your completetion of the project.]
 - **Project Summary**: [Summarize the Background/Motivation, Research Questions, Application Scenario (Data Source), Results, Intellectual Merits and Practical impacts of your project.]
 
-## Table of Contents
+## Part I: Machine Learning for Explanation
+[Github Repository: STATS201_Problem_Set_2_Explanation](https://github.com/yutongquan/STATS201_Problem_Set_2_Explanation)
+
+## Part II: Machine Learning for Prediction
+### Table of Contents
 - data
 - code
 - spotlight
-
-
 
 ## Data
 - Data Source:
 - Queried Data
 - Processed Data
-- ...
-
 
 ## Code
-- Query Data
 - Process Data
 - Analyze Data
-- ...
 
 ## Spotlight
 ![Confusion Matrix](https://github.com/yutongquan/STATS201_Problem_Set_2/blob/main/Spotlight/Confusion%20Matrix_Ridge%20Classfier.png)
 
+*Figure No.1. Source: [Alpha Vantage: Digital & Crypto Currencies/DIGITAL_CURRENCY_DAILY](https://www.alphavantage.co/documentation/#digital-currency), created by [Scikit Learn: Ridge regression and classification]([https://plotly.com/python/](https://scikit-learn.org/stable/modules/linear_model.html#ridge-regression-and-classification))*
+
 ## References
 
 ### Data Source
-- Data Source Title and URL
+[Alpha Vantage: Digital & Crypto Currencies/DIGITAL_CURRENCY_DAILY](https://www.alphavantage.co/documentation/#digital-currency)
 ### Code Source
-- Code Source Title and URL
+[stats201-tutorial-prediction/code](https://github.com/Rising-Stars-by-Sunshine/stats201-tutorial-prediction/tree/main/code)
 ### Articles
 - Article Source Title and URL
 ### Literature
