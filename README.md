@@ -11,18 +11,18 @@
 
 ## Part II: Machine Learning for Prediction
 ### Table of Contents
-- [data](https://github.com/yutongquan/STATS201_Problem_Set_2_Explanation/tree/main/data)
-- [code](https://github.com/yutongquan/STATS201_Problem_Set_2_Explanation/tree/main/code)
-- [spotlight](https://github.com/yutongquan/STATS201_Problem_Set_2_Explanation/tree/main/spotlight)
+- [data](https://github.com/yutongquan/STATS201_Problem_Set_2/tree/main/Data)
+- [code](https://github.com/yutongquan/STATS201_Problem_Set_2/tree/main/Code)
+- [spotlight](https://github.com/yutongquan/STATS201_Problem_Set_2/tree/main/Spotlight)
 
 ### Data
-- Data Source: https://github.com/SciEcon/SoK_Blockchain_Decentralization/tree/main/Data_TokenIndex
-- [Queried Data](https://github.com/yutongquan/STATS201_Problem_Set_2_Explanation/tree/main/data/Queried_Data)
-- [Processed Data](https://github.com/yutongquan/STATS201_Problem_Set_2_Explanation/tree/main/data/Processed_Data)
+- Data Source: https://www.alphavantage.co/documentation/#digital-currency
+- [Queried Data](https://github.com/yutongquan/STATS201_Problem_Set_2/tree/main/Data/queried_data)
+- [Processed Data](https://github.com/yutongquan/STATS201_Problem_Set_2/tree/main/Data/processed_data)
 
 ### Code
-- [Process Data](https://github.com/yutongquan/STATS201_Problem_Set_2_Explanation/blob/main/code/Process_Data.ipynb)
-- [Analyze Data](https://github.com/yutongquan/STATS201_Problem_Set_2_Explanation/blob/main/code/Analyze_Data.ipynb)
+- [Process Data](https://github.com/yutongquan/STATS201_Problem_Set_2/blob/main/Code/Process_Data.ipynb)
+- [Analyze Data](https://github.com/yutongquan/STATS201_Problem_Set_2/blob/main/Code/Analyze_Data.ipynb)
 
 ### Spotlight
 ![Confusion Matrix](https://github.com/yutongquan/STATS201_Problem_Set_2/blob/main/Spotlight/Confusion%20Matrix_Ridge%20Classfier.png)
