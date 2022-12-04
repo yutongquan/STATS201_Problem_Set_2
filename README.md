@@ -12,9 +12,9 @@
 ## Part II: Machine Learning for Prediction
 
 ### Table of Contents
-- [data](https://github.com/yutongquan/STATS201_Problem_Set_2/tree/main/Data)
-- [code](https://github.com/yutongquan/STATS201_Problem_Set_2/tree/main/Code)
-- [spotlight](https://github.com/yutongquan/STATS201_Problem_Set_2/tree/main/Spotlight)
+- [Data](https://github.com/yutongquan/STATS201_Problem_Set_2/tree/main/Data)
+- [Code](https://github.com/yutongquan/STATS201_Problem_Set_2/tree/main/Code)
+- [Spotlight](https://github.com/yutongquan/STATS201_Problem_Set_2/tree/main/Spotlight)
 
 ### Data
 - Data Source: https://www.alphavantage.co/documentation/#digital-currency
