@@ -41,7 +41,9 @@ Figure No.1 is the confusion matrix of [Ridge Classification](https://scikit-lea
 [stats201-tutorial-prediction/code](https://github.com/Rising-Stars-by-Sunshine/stats201-tutorial-prediction/tree/main/code)
 ### Articles
 [Time Series Prediction Using LSTM Deep Neural Networks](https://www.altumintelligence.com/articles/a/Time-Series-Prediction-Using-LSTM-Deep-Neural-Networks)
+
 [The Confusion Matrix for Classification](https://pub.towardsai.net/the-confusion-matrix-for-classification-eb3bcf3064c7)
 ### Literature
 Aungiers, Jakob. 2018. “Time Series Prediction Using LSTM Deep Neural Networks.” Www.altumintelligence.com. September 1, 2018. https://www.altumintelligence.com/articles/a/Time-Series-Prediction-Using-LSTM-Deep-Neural-Networks.
+
 Krukrubo, Lawrence Alaso. 2019. “The Confusion Matrix for Classification.” Medium. Aug 19, 2019. https://pub.towardsai.net/the-confusion-matrix-for-classification-eb3bcf3064c7.
